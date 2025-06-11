@@ -1,8 +1,8 @@
 ﻿# Clases y Métodos
 
-\# Estructura de las clases:
+# Estructura de las clases:
 
-\### `Estimacion`
+### `Estimacion`
 
 Clase base para construir histogramas y estimar densidades con núcleos.
 
