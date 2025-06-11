@@ -80,13 +80,13 @@ En este caso la llamamos subclase para los modelos lineales que tienen una sola 
 
 \---
 
-\### 🧾 `RegresionLinealMultiple`
+\### `RegresionLinealMultiple`
 
 Al igual que en regresión lineal simple, pero la usamos en los modelos con múltiples variables predictoras.
 
 \---
 
-\### 🚦 `RegresionLogistica`
+\### `RegresionLogistica`
 
 Esta clase permite modelar la relación entre una variable dependiente dummy (0 o 1) y un conjunto de variables independientes.
 
