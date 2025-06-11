@@ -1,4 +1,4 @@
-﻿\# 📊 Clases y Métodos
+﻿# Clases y Métodos
 
 \# Estructura de las clases:
 
